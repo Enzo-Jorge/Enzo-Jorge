@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou o Enzo!!
 - 👀 Eu tenho grande interesse em programação back e front-end.
-- 🌱 Eu estou no segundo semestre do segundo ano no curso de Ciências da computação da SPTech.
+- 🌱 Eu estou no primeiro semestre do terceiro ano no curso de Ciências da computação da SPTech.
 - 📫 Meu instagram é um ótimo jeito de me contatar (@Enzo._.Jorge)
 - ⚡ Curiosidade: Eu sou ambidestro!
 
